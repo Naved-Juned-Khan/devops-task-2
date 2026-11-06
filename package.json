@@ -1,0 +1,14 @@
+{
+  "name": "devops-task-2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jenkins CI/CD Pipeline Internship Task A simple dashboard demonstrating a Jenkins and Docker CI/CD pipeline.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
